@@ -47,4 +47,8 @@ tags
 
 # End of https://www.toptal.com/developers/gitignore/api/go,vim
 
+# build artifacts
 bin/
+
+# application logs
+*.log
